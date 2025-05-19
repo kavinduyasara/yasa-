@@ -1,0 +1,520 @@
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+WARNING:huggingface_hub.file_download:Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+WARNING:huggingface_hub.file_download:Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+WARNING:huggingface_hub.file_download:Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+WARNING:huggingface_hub.file_download:Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:User input: laptop
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:User input: Vegetables
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:User input: apple phone 
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:User input: Vegetables
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:User input: Vegetables
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:User input: gaming laptop 
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:User input: iphone 14 pro 
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:User input: yes i need new i phone 14 pro 
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:Successfully connected to Gemini API with provided key.
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:User input: buy lap top 
+ERROR:__main__:Error generating response with Gemini API: name 'prompt_template' is not defined
+ERROR:__main__:Error processing query: Failed to generate response: name 'prompt_template' is not defined
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:User input: buy laptop 
+ERROR:__main__:Error generating response with Gemini API: name 'prompt_template' is not defined
+ERROR:__main__:Error processing query: Failed to generate response: name 'prompt_template' is not defined
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:User input: gaming laptop 
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:User input: buy laptop 
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:User input: buy laptop 
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:User input: buy laptop 
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:User input: buy laptop 
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:User input: gaminh lapotop 
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:User input: my budget is 800s ,also  i need to play all new game 
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:User input: my budget is 800s ,also  i need to play all new game 
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:User input: iphone 14 pro 
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:User input: iphone 14 pro 
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:User input: iphone 14 pro 
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:User input: also i need air pod 
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:User input: 3rd generation 
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:User input: iphone 
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:User input: iphone 
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:User input: gaming laptop 
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:User input: iphone 14 pro 
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:User input: phone case 
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:User input: gaming laptop 
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:User input: 15.6 screen size 
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:User input: gamming laptop 
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:User input: phone 
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+INFO:__main__:User input: phone 
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
+WARNING:__main__:CUDA not available. Using CPU for sentiment analysis.
+INFO:__main__:Successfully connected to Gemini API with provided key.
+INFO:__main__:Starting Streamlit app...
